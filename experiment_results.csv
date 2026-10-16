@@ -1,0 +1,21 @@
+Tác vụ,Rule-based (thời gian),RAG-based (thời gian),Rule-based (độ chính xác),RAG-based (độ chính xác),Số kết quả Rule-based,Số kết quả RAG-based
+Truy xuất đơn hàng,13.4459 giây,27.4329 giây,100.00%,100.00%,8.0,86.0
+Truy xuất đơn hàng,13.4957 giây,28.0486 giây,100.00%,100.00%,19.0,49.0
+Truy xuất đơn hàng,13.4769 giây,30.6979 giây,100.00%,100.00%,32.0,86.0
+Truy xuất đơn hàng,13.7543 giây,33.3857 giây,100.00%,100.00%,38.0,86.0
+Truy xuất đơn hàng,13.5141 giây,27.2611 giây,100.00%,100.00%,22.0,86.0
+Phân tích hành vi mua sắm,13.6984 giây,29.7566 giây,100.00%,100.00%,50.0,297.0
+Phân tích hành vi mua sắm,13.4352 giây,28.0547 giây,100.00%,100.00%,142.0,184.0
+Phân tích hành vi mua sắm,13.4521 giây,27.9030 giây,100.00%,100.00%,864.0,484.0
+Phân tích hành vi mua sắm,13.5180 giây,28.4914 giây,100.00%,100.00%,83.0,182.0
+Phân tích hành vi mua sắm,13.4934 giây,27.2808 giây,100.00%,100.00%,181.0,142.0
+Gợi ý sản phẩm cá nhân hóa,Không khả dụng,28.2963 giây,Không khả dụng,100.00%,,216.0
+Gợi ý sản phẩm cá nhân hóa,Không khả dụng,29.3190 giây,Không khả dụng,100.00%,,153.0
+Gợi ý sản phẩm cá nhân hóa,Không khả dụng,31.8741 giây,Không khả dụng,100.00%,,117.0
+Gợi ý sản phẩm cá nhân hóa,Không khả dụng,29.2317 giây,Không khả dụng,100.00%,,140.0
+Gợi ý sản phẩm cá nhân hóa,Không khả dụng,29.0357 giây,Không khả dụng,100.00%,,191.0
+Gợi ý sản phẩm cá nhân hóa,Không khả dụng,29.3321 giây,Không khả dụng,100.00%,,209.0
+Gợi ý sản phẩm cá nhân hóa,Không khả dụng,33.6417 giây,Không khả dụng,100.00%,,203.0
+Gợi ý sản phẩm cá nhân hóa,Không khả dụng,30.8519 giây,Không khả dụng,100.00%,,301.0
+Gợi ý sản phẩm cá nhân hóa,Không khả dụng,27.4768 giây,Không khả dụng,100.00%,,225.0
+Gợi ý sản phẩm cá nhân hóa,Không khả dụng,28.3350 giây,Không khả dụng,100.00%,,161.0

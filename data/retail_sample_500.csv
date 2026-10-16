@@ -1,0 +1,501 @@
+InvoiceNo,StockCode,Description,Quantity,InvoiceDate,UnitPrice,CustomerID,Country,Revenue
+503546,20727,lunch bag  black skull.,10,4/1/2010 14:51,1.65,16351,United Kingdom,16.5
+538508,21584,retrospot small tube matches,6,12/12/2010 13:32,1.65,15998,United Kingdom,9.9
+555586,22595,gingham heart decoration,12,6/6/2011 9:12,0.85,14232,United Kingdom,10.2
+527890,22714,card birthday cowboy,12,10/19/2010 12:15,0.42,17365,United Kingdom,5.04
+546005,85194L,hanging spring flower egg large,12,3/8/2011 15:17,0.85,14426,United Kingdom,10.2
+531736,22121,noel wooden block letters,3,11/9/2010 12:29,5.95,14243,United Kingdom,17.85
+546679,20974,12 pencils small tube skull,3,3/15/2011 16:47,0.65,13121,United Kingdom,1.95
+555501,23172,regency tea plate pink,3,6/3/2011 15:37,1.65,15508,United Kingdom,4.95
+512889,21899,"key fob , garage design",5,6/18/2010 12:04,0.65,16797,United Kingdom,3.25
+523195,22411,jumbo shopper vintage red paisley,100,9/21/2010 8:25,1.65,13802,United Kingdom,165.0
+560555,22979,pantry washing up brush,1,7/19/2011 13:01,1.45,14178,United Kingdom,1.45
+534219,35957,smallfolkart bauble christmas dec,1,11/21/2010 16:13,0.42,13230,United Kingdom,0.42
+550784,23184,bull dog bottle opener,4,4/20/2011 13:59,4.95,13269,United Kingdom,19.8
+526753,82484,wood black board ant white finish,3,10/13/2010 10:12,6.45,13267,United Kingdom,19.35
+565853,22030,swallows greeting card,12,9/7/2011 13:19,0.42,13756,United Kingdom,5.04
+499284,22317,five cats hanging decoration,6,2/25/2010 18:58,2.95,14770,United Kingdom,17.7
+537440,22503,cabin bag vintage paisley,1,12/6/2010 17:16,29.95,17869,United Kingdom,29.95
+494897,20749,assorted colour mini cases,4,1/19/2010 14:16,7.95,12437,France,31.8
+497382,21537,retro spots pudding bowl,1,2/9/2010 11:50,4.25,14680,United Kingdom,4.25
+512807,22583,pack of 6 handbag gift boxes,2,6/18/2010 11:21,2.55,14646,Netherlands,5.1
+509410,22563,happy stencil craft,6,5/23/2010 12:07,1.25,17769,United Kingdom,7.5
+512422,21829,dinosaur keyrings assorted,36,6/15/2010 14:33,0.21,13477,United Kingdom,7.56
+553038,23191,bundle of 3 retro note books,12,5/13/2011 8:11,1.65,12471,Germany,19.8
+550350,22197,small popcorn holder,12,4/18/2011 10:04,0.85,15491,United Kingdom,10.2
+541256,22730,alarm clock bakelike ivory,2,1/16/2011 14:36,3.75,13048,United Kingdom,7.5
+504631,22406,money box kings choice design,12,4/15/2010 12:55,1.25,13647,United Kingdom,15.0
+531792,22585,pack of 6 birdy gift tags,6,11/9/2010 15:20,1.25,14899,United Kingdom,7.5
+522950,22691,doormat welcome sunrise,1,9/19/2010 10:33,7.95,13542,United Kingdom,7.95
+549927,16156S,wrap pink fairy cakes,400,4/13/2011 10:19,0.34,16684,United Kingdom,136.0
+565443,22341,love garland painted zinc,12,9/4/2011 14:22,1.65,12567,France,19.8
+571054,85032B,blossom images gift wrap set,1,10/13/2011 13:58,0.65,14234,United Kingdom,0.65
+577308,22423,regency cakestand 3 tier,2,11/18/2011 13:14,12.75,15088,United Kingdom,25.5
+518260,48187,doormat new england,2,8/5/2010 18:18,7.49,17049,United Kingdom,14.98
+536381,84854,girly pink tool set,5,12/1/2010 9:41,4.95,15311,United Kingdom,24.75
+522501,15056N,edwardian parasol natural,60,9/15/2010 11:07,4.95,15039,United Kingdom,297.0
+503933,22217,t-light holder hanging lace,12,4/8/2010 13:54,1.25,18065,United Kingdom,15.0
+542303,21843,red retrospot cake stand,1,1/27/2011 11:05,10.95,12539,Spain,10.95
+578791,22055,mini cake stand  hanging strawbery,1,11/25/2011 12:20,1.65,12841,United Kingdom,1.65
+545023,22464,hanging metal heart lantern,12,2/25/2011 14:25,1.65,12921,United Kingdom,19.8
+526197,22905,calendar in season design,2,10/10/2010 12:53,2.95,17757,United Kingdom,5.9
+569630,20727,lunch bag  black skull.,10,10/5/2011 11:44,1.65,13458,United Kingdom,16.5
+552108,21756,bath building block word,1,5/6/2011 11:36,5.95,17841,United Kingdom,5.95
+560872,21868,potting shed tea mug,24,7/21/2011 14:41,1.25,14745,United Kingdom,30.0
+546752,22501,picnic basket wicker large,6,3/16/2011 12:55,9.95,13299,United Kingdom,59.7
+533759,22572,rocking horse green christmas,24,11/18/2010 14:45,0.85,14911,EIRE,20.4
+569493,22690,doormat home sweet home blue,2,10/4/2011 13:35,8.25,13317,United Kingdom,16.5
+578129,21264,white goose feather tree 60cm,12,11/23/2011 10:39,1.95,13502,United Kingdom,23.4
+526375,22157,angel decoration with lace padded,24,10/11/2010 12:26,0.85,18245,United Kingdom,20.4
+489599,85099B,jumbo bag red white spotty,30,12/1/2009 14:40,1.95,12758,Portugal,58.5
+508211,21713,citronella candle flowerpot,48,5/13/2010 14:42,0.85,15210,United Kingdom,40.8
+490008,22031,botanical lavender birthday card,12,12/3/2009 12:10,0.42,15768,United Kingdom,5.04
+524972,22637,piggy bank retrospot,6,10/1/2010 14:57,2.55,13849,United Kingdom,15.3
+560018,22332,skulls party bag + sticker set,3,7/14/2011 12:52,1.65,15987,United Kingdom,4.95
+558100,22690,doormat home sweet home blue,1,6/26/2011 13:46,7.95,17768,United Kingdom,7.95
+545075,84970S,hanging heart zinc t-light holder,12,2/28/2011 9:33,0.85,14211,United Kingdom,10.2
+519343,21278,vintage kitchen print puddings,6,8/16/2010 12:12,2.55,12687,Sweden,15.3
+541883,22773,green drawer knob acrylic edwardian,24,1/24/2011 10:56,1.25,13408,United Kingdom,30.0
+539988,22568,feltcraft cushion owl,1,12/23/2010 16:06,3.75,18116,United Kingdom,3.75
+535875,85099F,jumbo bag strawberry,10,11/29/2010 10:50,1.95,15747,United Kingdom,19.5
+566620,22748,poppy's playhouse kitchen,6,9/14/2011 9:21,2.1,13588,United Kingdom,12.6
+554355,22624,ivory kitchen scales,2,5/24/2011 9:20,8.5,16992,United Kingdom,17.0
+574896,23398,hanging heart bonheur,4,11/7/2011 14:51,0.85,17014,United Kingdom,3.4
+570664,21463,mirrored disco ball,1,10/11/2011 14:21,5.95,16362,United Kingdom,5.95
+497894,82578,kitchen metal sign,4,2/14/2010 12:36,0.55,15425,United Kingdom,2.2
+572306,20735,black mini tape measure,2,10/23/2011 15:11,0.85,17841,United Kingdom,1.7
+525472,21882,skulls tape,12,10/5/2010 15:15,0.65,16129,United Kingdom,7.8
+501038,72741,grand chocolatecandle,9,3/12/2010 9:21,1.25,17448,United Kingdom,11.25
+550312,82482,wooden picture frame white finish,24,4/17/2011 11:18,2.55,13089,United Kingdom,61.2
+526873,20725,lunch bag red retrospot,10,10/13/2010 14:12,1.65,12921,United Kingdom,16.5
+536987,22961,jam making set printed,1,12/3/2010 14:54,1.45,17198,United Kingdom,1.45
+562125,22302,coffee mug pears  design,6,8/2/2011 17:29,2.55,17887,United Kingdom,15.3
+535425,21380,wooden happy birthday garland,1,11/26/2010 12:00,2.95,17796,United Kingdom,2.95
+516485,21498,red spots  wrap,25,7/21/2010 9:46,0.42,12720,Germany,10.5
+535268,22739,ribbon reel christmas sock bauble,5,11/25/2010 13:38,1.65,12841,United Kingdom,8.25
+507379,85150,ladies & gentlemen metal sign,6,5/9/2010 11:39,2.55,14916,United Kingdom,15.3
+489640,84559B,3d sheet of cat stickers,13,12/1/2009 16:17,0.85,17345,United Kingdom,11.05
+559025,23203,jumbo bag doiley patterns,10,7/5/2011 13:56,2.08,16338,United Kingdom,20.8
+538630,22377,bottle bag retrospot,5,12/13/2010 13:25,2.1,14565,United Kingdom,10.5
+497691,22021,blue felt easter egg basket,3,2/11/2010 15:29,1.65,14040,United Kingdom,4.95
+581003,23302,kneeling mat housework  design,24,12/7/2011 8:38,0.79,14911,EIRE,18.96
+534497,21975,pack of 60 dinosaur cake cases,2,11/23/2010 11:00,0.55,17811,United Kingdom,1.1
+490118,85167A,white grand baroque photo frame,2,12/3/2009 17:46,4.25,17851,United Kingdom,8.5
+565453,20725,lunch bag red retrospot,10,9/4/2011 16:05,1.65,15136,United Kingdom,16.5
+493759,21905,more butter metal sign,1,1/6/2010 13:56,2.1,17965,United Kingdom,2.1
+558868,21746,small red retrospot windmill,12,7/4/2011 12:47,1.25,13266,United Kingdom,15.0
+540455,20750,red retrospot mini cases,4,1/7/2011 12:07,7.95,12583,France,31.8
+493819,21584,retro spot small tube matches,480,1/7/2010 12:34,1.45,14156,EIRE,696.0
+539761,84826,asstd design 3d paper stickers,60,12/22/2010 10:29,0.21,17593,United Kingdom,12.6
+544161,22767,triple photo frame cornice,4,2/16/2011 12:59,9.95,16875,United Kingdom,39.8
+538170,21484,chick grey hot water bottle,5,12/9/2010 19:32,3.45,13969,United Kingdom,17.25
+521839,22393,paperweight vintage collage,6,9/9/2010 10:50,2.55,12635,Germany,15.3
+534499,84997A,green 3 piece polkadot cutlery set,1,11/23/2010 11:12,3.75,17372,United Kingdom,3.75
+536796,21981,pack of 12 woodland tissues,1,12/2/2010 15:46,0.29,15574,United Kingdom,0.29
+579171,22278,overnight bag vintage rose paisley,6,11/28/2011 14:30,4.95,13030,United Kingdom,29.7
+508103,82486,wood s/3 cabinet ant white finish,2,5/13/2010 10:15,7.95,14039,United Kingdom,15.9
+556495,20828,glitter butterfly clips,2,6/12/2011 15:14,2.55,18069,United Kingdom,5.1
+537399,21931,jumbo storage bag suki,1,12/6/2010 14:31,1.95,13030,United Kingdom,1.95
+553183,22520,childs garden trowel blue,12,5/15/2011 12:31,0.85,16076,United Kingdom,10.2
+549981,21891,traditional wooden skipping rope,2,4/13/2011 15:49,1.45,16348,United Kingdom,2.9
+579102,22795,sweetheart recipe book stand,2,11/28/2011 11:33,6.75,14911,EIRE,13.5
+559024,23245,set of 3 regency cake tins,4,7/5/2011 13:38,4.95,16616,United Kingdom,19.8
+570192,23076,ice cream sundae lip gloss,24,10/7/2011 15:26,1.25,17509,United Kingdom,30.0
+579708,23209,lunch bag vintage doily,10,11/30/2011 14:16,1.65,12682,France,16.5
+570720,21983,pack of 12 blue paisley tissues,24,10/12/2011 10:50,0.29,17934,United Kingdom,6.96
+552852,22984,card gingham rose,12,5/11/2011 15:08,0.42,16712,United Kingdom,5.04
+524311,21805,white christmas tree decoration,15,9/28/2010 14:09,0.42,17841,United Kingdom,6.3
+525030,21931,jumbo storage bag suki,10,10/3/2010 12:18,1.95,15351,United Kingdom,19.5
+492814,21326,aged glass silver t-light holder,144,12/20/2009 13:17,0.55,14560,United Kingdom,79.2
+504571,21506,"fancy font birthday card,",12,4/14/2010 14:38,0.42,15572,United Kingdom,5.04
+503968,22521,childs garden trowel pink,12,4/8/2010 17:15,0.85,15129,United Kingdom,10.2
+500336,72008,frosted box 9 white t-light candles,3,3/7/2010 13:48,0.42,17589,United Kingdom,1.26
+575840,23507,mini playing cards buffalo bill,20,11/11/2011 11:56,0.42,13137,United Kingdom,8.4
+504893,84658,white stitched cushion cover,2,4/18/2010 14:06,6.95,15972,United Kingdom,13.9
+520745,22109,full english breakfast plate,16,8/31/2010 10:47,3.39,14032,United Kingdom,54.24
+555005,21790,vintage snap cards,144,5/31/2011 9:38,0.72,16656,United Kingdom,103.68
+509417,22606,wooden skittles garden set,1,5/23/2010 12:56,15.95,17081,United Kingdom,15.95
+538182,85123A,white hanging heart t-light holder,6,12/10/2010 10:18,2.95,17827,United Kingdom,17.7
+553879,21155,red retrospot peg bag,6,5/19/2011 15:15,2.55,15791,United Kingdom,15.3
+566400,22193,red diner wall clock,2,9/12/2011 13:16,8.5,17139,United Kingdom,17.0
+490677,22300,coffee mug dog + ball design,12,12/7/2009 13:17,2.55,18219,United Kingdom,30.6
+559108,22174,photo cube,48,7/6/2011 11:42,1.48,13094,United Kingdom,71.04
+532964,22688,doormat peace on earth blue,1,11/15/2010 12:43,7.95,15493,United Kingdom,7.95
+580119,21931,jumbo storage bag suki,1,12/1/2011 16:37,2.08,17920,United Kingdom,2.08
+532382,85034A,3 gardenia morris boxed candles,3,11/11/2010 18:24,4.25,16081,United Kingdom,12.75
+537446,35646,vintage bead pink evening bag,4,12/7/2010 9:13,4.25,18055,United Kingdom,17.0
+566539,22998,travel card wallet keep calm,8,9/13/2011 11:34,0.42,17228,United Kingdom,3.36
+530092,85123A,white hanging heart t-light holder,18,11/1/2010 13:46,2.95,15253,United Kingdom,53.1
+526394,22158,3 hearts hanging decoration rustic,8,10/11/2010 13:25,2.95,16527,United Kingdom,23.6
+521663,20986,blue calculator ruler,12,9/7/2010 14:46,1.25,15367,United Kingdom,15.0
+502869,22514,childs garden spade blue,4,3/28/2010 16:13,2.1,13113,United Kingdom,8.4
+573096,22557,plasters in tin vintage paisley,12,10/27/2011 14:40,1.65,14004,United Kingdom,19.8
+543809,21467,cherry crochet food cover,2,2/13/2011 13:52,3.75,17095,United Kingdom,7.5
+565649,22852,dog bowl vintage cream,2,9/5/2011 16:27,4.25,16712,United Kingdom,8.5
+573311,22597,musical zinc heart decoration,3,10/28/2011 16:45,0.29,14071,United Kingdom,0.87
+538850,22621,traditional knitting nancy,12,12/14/2010 13:31,1.45,16499,United Kingdom,17.4
+522650,21676,flowers  stickers,12,9/16/2010 10:49,0.85,13424,United Kingdom,10.2
+559948,21294,etched glass coaster,48,7/14/2011 10:41,0.39,12653,Israel,18.72
+546625,21935,suki  shoulder bag,16,3/15/2011 11:45,1.65,17542,United Kingdom,26.4
+533293,22834,hand warmer babushka design,12,11/16/2010 15:58,2.1,16145,United Kingdom,25.2
+561195,22754,small red babushka notebook,3,7/25/2011 13:57,0.85,14796,United Kingdom,2.55
+496882,21272,salle de bain hook,1,2/4/2010 14:13,1.25,15167,United Kingdom,1.25
+542595,48188,doormat welcome puppies,1,1/30/2011 10:19,7.95,14040,United Kingdom,7.95
+563076,23192,bundle of 3 alphabet exercise books,48,8/11/2011 16:12,1.45,14646,Netherlands,69.6
+547383,20983,12 pencils tall tube red retrospot,12,3/22/2011 15:42,0.85,12613,Germany,10.2
+543022,22508,doorstop retrospot heart,2,2/2/2011 14:37,3.75,16771,United Kingdom,7.5
+527767,22243,5 hook hanger red magic toadstool,24,10/19/2010 9:35,1.65,12623,Germany,39.6
+543166,22173,metal 4 hook hanger french chateau,8,2/4/2011 8:27,2.95,13488,United Kingdom,23.6
+559951,23203,jumbo bag doiley patterns,10,7/14/2011 10:52,2.08,14847,United Kingdom,20.8
+500663,21760,french style wall dresser,1,3/9/2010 12:10,125.0,17700,United Kingdom,125.0
+494637,84519A,tomato charlie+lola coaster set,2,1/17/2010 10:35,2.95,14451,United Kingdom,5.9
+561047,21988,pack of 6 skull paper plates,12,7/24/2011 12:46,0.85,16948,United Kingdom,10.2
+545908,48188,doormat welcome puppies,2,3/8/2011 9:26,7.95,14709,United Kingdom,15.9
+533112,22139,retrospot tea set ceramic 11 pc,1,11/16/2010 12:14,4.95,15311,United Kingdom,4.95
+516287,22356,charlotte bag pink with white spots,10,7/19/2010 12:53,0.85,13081,United Kingdom,8.5
+575087,23372,set 36 colour pencils dolly girl,2,11/8/2011 13:57,1.25,16549,United Kingdom,2.5
+505916,22415,white tissue ream,1,4/26/2010 14:47,7.95,15867,United Kingdom,7.95
+527764,84029E,red woolly hottie white heart.,4,10/19/2010 9:07,3.75,16859,United Kingdom,15.0
+569923,21754,home building block word,3,10/6/2011 17:43,6.25,16184,United Kingdom,18.75
+501671,16169M,wrap daisy carpet,25,3/18/2010 15:11,0.42,18171,United Kingdom,10.5
+496057,84508C,blue circles design teddy,6,1/28/2010 15:04,2.55,16137,United Kingdom,15.3
+513814,20728,lunch bag cars blue,10,6/29/2010 9:59,1.65,15544,United Kingdom,16.5
+560145,22963,jam jar with green lid,12,7/15/2011 11:04,0.85,13381,United Kingdom,10.2
+497035,21365,mirrored wall art stars,1,2/5/2010 14:14,2.95,16704,United Kingdom,2.95
+490124,48173C,door mat black flock,1,12/3/2009 18:08,6.75,16791,United Kingdom,6.75
+520524,22198,large popcorn holder,12,8/26/2010 14:25,1.65,16375,United Kingdom,19.8
+527512,21591,cosy hour cigar box matches,24,10/18/2010 12:54,1.25,14130,United Kingdom,30.0
+530792,22307,gold mug bone china tree of life,36,11/4/2010 12:17,1.65,15332,Lithuania,59.4
+564372,23208,lunch bag vintage leaf design,10,8/25/2011 9:55,1.65,12714,France,16.5
+516569,48187,doormat new england,10,7/21/2010 12:45,6.35,13093,United Kingdom,63.5
+578035,21790,vintage snap cards,24,11/22/2011 14:00,0.85,16422,United Kingdom,20.4
+574292,22866,hand warmer scotty dog design,1,11/3/2011 15:27,2.1,16914,United Kingdom,2.1
+510040,84925F,psychedelic wall thermometer,24,5/26/2010 15:55,0.85,14626,United Kingdom,20.4
+527505,72351A,set/6 turquoise butterfly t-lights,2,10/18/2010 12:25,2.1,17841,United Kingdom,4.2
+500719,21844,retro spot mug,6,3/9/2010 15:16,2.95,16707,United Kingdom,17.7
+529978,22312,office mug warmer polkadot,3,10/31/2010 15:18,2.95,13760,United Kingdom,8.85
+564534,85231B,cinammon set of 9 t-lights,3,8/25/2011 15:09,0.85,12748,United Kingdom,2.55
+555719,23205,charlotte bag vintage alphabet,10,6/6/2011 15:31,0.85,12609,Germany,8.5
+508220,21165,beware of the cat metal sign,1,5/13/2010 15:21,1.69,18168,United Kingdom,1.69
+523307,22138,baking set 9 piece retrospot,6,9/21/2010 12:56,4.95,17017,United Kingdom,29.7
+533750,20977,36 pencils tube woodland,3,11/18/2010 14:17,1.25,15571,United Kingdom,3.75
+542894,35961,folkart zinc heart christmas dec,24,2/1/2011 13:45,0.85,12775,Netherlands,20.4
+564336,22271,feltcraft doll rosie,1,8/24/2011 14:28,2.95,12748,United Kingdom,2.95
+508251,22434,balloon pump with 10 balloons,16,5/14/2010 10:40,1.95,13157,United Kingdom,31.2
+545577,22720,set of 3 cake tins pantry design,3,3/3/2011 19:18,4.95,14702,United Kingdom,14.85
+500384,72349B,set/6 purple butterfly t-lights,12,3/8/2010 10:45,2.1,17740,United Kingdom,25.2
+560018,23191,bundle of 3 retro note books,1,7/14/2011 12:52,1.65,15987,United Kingdom,1.65
+575884,23480,mini lights woodland mushrooms,4,11/11/2011 13:46,3.75,12685,France,15.0
+496463,21164,home sweet home metal sign,6,2/1/2010 14:52,2.95,15480,Malta,17.7
+580640,22398,magnets pack of 4 swallows,1,12/5/2011 12:51,0.39,16910,United Kingdom,0.39
+572563,23209,lunch bag vintage doily,10,10/25/2011 9:31,1.65,12928,United Kingdom,16.5
+494007,21628,triangular pouffe vintage,1,1/10/2010 16:03,14.95,14606,United Kingdom,14.95
+527043,21121,set/10 red polkadot party candles,1,10/14/2010 12:32,1.25,18090,United Kingdom,1.25
+577485,84029G,knitted union flag hot water bottle,1,11/20/2011 11:56,4.25,16360,United Kingdom,4.25
+509748,22427,enamel flower jug cream,3,5/25/2010 13:51,5.95,15217,United Kingdom,17.85
+555572,22449,silk purse babushka pink,6,6/5/2011 15:37,3.35,12449,Belgium,20.1
+574936,20975,12 pencils small tube red retrospot,3,11/7/2011 17:06,0.65,13066,United Kingdom,1.95
+498903,21657,milk bottle with glass stopper,3,2/23/2010 14:16,6.95,14112,United Kingdom,20.85
+507418,47566,party bunting,5,5/9/2010 14:52,4.65,17292,United Kingdom,23.25
+505448,21080,set/20 red spotty paper napkins,12,4/22/2010 11:14,0.85,17646,United Kingdom,10.2
+557782,22819,"birthday card, retro spot",12,6/22/2011 15:41,0.42,14640,United Kingdom,5.04
+561098,22090,paper bunting retrospot,6,7/25/2011 10:56,2.95,14194,United Kingdom,17.7
+544661,22520,childs garden trowel blue,12,2/22/2011 13:59,0.85,15303,United Kingdom,10.2
+533294,84006,magic tree -paper flowers,24,11/16/2010 16:01,0.85,13081,United Kingdom,20.4
+577699,82552,washroom metal sign,12,11/21/2011 12:06,1.45,13971,United Kingdom,17.4
+568671,23318,box of 6 mini vintage crackers,12,9/28/2011 13:13,2.49,13139,United Kingdom,29.88
+563432,22667,recipe box retrospot,1,8/16/2011 12:12,2.95,16713,United Kingdom,2.95
+570818,20724,red retrospot charlotte bag,2,10/12/2011 12:47,0.85,17841,United Kingdom,1.7
+517906,22121,noel wooden block letters,3,8/3/2010 9:53,5.95,15081,United Kingdom,17.85
+491675,16169D,wrap winter forest,50,12/13/2009 12:04,0.42,16710,United Kingdom,21.0
+578307,23275,set of 3 hanging owls ollie beak,1,11/23/2011 15:53,1.25,17290,United Kingdom,1.25
+545681,20724,red retrospot charlotte bag,4,3/6/2011 11:28,0.85,16923,United Kingdom,3.4
+555524,22698,pink regency teacup and saucer,1,6/5/2011 11:37,2.95,16923,United Kingdom,2.95
+511638,21934,skull shoulder bag,4,6/9/2010 13:08,1.65,17346,United Kingdom,6.6
+570271,21519,gin & tonic diet greeting card,60,10/10/2011 10:29,0.42,13756,United Kingdom,25.2
+543457,22652,travel sewing kit,100,2/8/2011 12:47,1.65,17428,United Kingdom,165.0
+570824,23244,round storage tin vintage leaf,6,10/12/2011 12:58,1.95,14299,United Kingdom,11.7
+510792,16011,animal stickers,24,6/3/2010 16:33,0.21,15867,United Kingdom,5.04
+573153,POST,postage,3,10/28/2011 7:39,145.0,12678,France,435.0
+575576,23517,embroidered ribbon reel rebecca,6,11/10/2011 11:45,2.89,16025,United Kingdom,17.34
+492117,48194,doormat hearts,2,12/15/2009 14:10,6.75,15808,United Kingdom,13.5
+572676,23343,jumbo bag vintage christmas,10,10/25/2011 13:30,2.08,16258,United Kingdom,20.8
+569651,84992,72 sweetheart fairy cake cases,1,10/5/2011 12:49,0.55,14534,United Kingdom,0.55
+532580,22845,vintage cream cat food container,1,11/12/2010 14:18,6.35,15311,United Kingdom,6.35
+499682,22328,round snack boxes set of 4 fruits,6,3/2/2010 9:25,2.95,12623,Germany,17.7
+562558,22577,wooden heart christmas scandinavian,21,8/5/2011 16:43,0.85,13451,United Kingdom,17.85
+523612,22907,pack of 20 napkins pantry design,12,9/23/2010 10:44,0.85,13001,United Kingdom,10.2
+537034,21224,set/4 skull badges,10,12/3/2010 17:20,1.25,13081,United Kingdom,12.5
+567822,23232,wrap vintage leaf design,25,9/22/2011 12:54,0.42,17644,United Kingdom,10.5
+501515,85049B,lush greens ribbons,2,3/17/2010 11:53,1.25,15867,United Kingdom,2.5
+578317,23493,vintage doily travel sewing kit,10,11/23/2011 16:47,1.95,15398,United Kingdom,19.5
+517742,35637C,pink string curtain with pole,1,8/1/2010 15:41,5.95,15666,United Kingdom,5.95
+492539,21635,madras notebook large,3,12/17/2009 13:35,3.75,16908,United Kingdom,11.25
+517627,16206B,red purse with pink heart,1,7/30/2010 12:19,1.25,16428,United Kingdom,1.25
+491695,20688,beauty speed expresso cups,1,12/13/2009 13:27,5.95,15850,United Kingdom,5.95
+530902,21166,cook with wine metal sign,7,11/4/2010 15:13,1.95,14099,United Kingdom,13.65
+540531,20971,pink blue felt craft trinket box,1,1/9/2011 14:03,1.25,16549,United Kingdom,1.25
+530083,22784,lantern cream gazebo,3,11/1/2010 13:04,4.95,13148,United Kingdom,14.85
+551250,22384,lunch bag pink polkadot,1,4/27/2011 12:00,1.65,17841,United Kingdom,1.65
+513626,84970S,hanging heart zinc t-light holder,24,6/27/2010 13:11,0.85,17364,United Kingdom,20.4
+568158,23515,embroidered ribbon reel daisy,6,9/25/2011 12:22,2.08,16133,United Kingdom,12.48
+568894,22662,lunch bag dolly girl design,1,9/29/2011 13:04,1.65,17528,United Kingdom,1.65
+493719,20914,set/5 red spotty lid glass bowls,6,1/6/2010 10:17,2.95,14210,United Kingdom,17.7
+516196,21332,moroccan beaten metal mirror,1,7/19/2010 10:07,12.75,14758,United Kingdom,12.75
+547649,22197,small popcorn holder,10,3/24/2011 12:02,0.85,18118,United Kingdom,8.5
+577480,23096,petit tray chic,4,11/20/2011 11:37,1.65,14525,United Kingdom,6.6
+572836,23505,playing cards i love london,1,10/26/2011 11:51,1.25,15568,United Kingdom,1.25
+514022,15056BL,edwardian parasol black,5,6/30/2010 11:06,5.95,15039,United Kingdom,29.75
+527751,22576,swallow wooden christmas decoration,5,10/18/2010 16:38,0.85,17848,United Kingdom,4.25
+523564,22670,french wc sign blue metal,2,9/22/2010 15:37,1.25,13610,United Kingdom,2.5
+571779,21829,dinosaur keyrings assorted,36,10/19/2011 11:27,0.21,12748,United Kingdom,7.56
+492252,22086,paper chain kit 50's christmas,6,12/16/2009 10:56,2.95,13999,United Kingdom,17.7
+490998,21918,set 12 kids colour  chalk sticks,24,12/8/2009 17:24,0.42,16253,United Kingdom,10.08
+576689,22150,3 stripey mice feltcraft,3,11/16/2011 12:18,1.95,16657,United Kingdom,5.85
+561247,85049E,scandinavian reds ribbons,12,7/26/2011 11:38,1.25,16592,United Kingdom,15.0
+545038,82599,fanny's rest stopmetal sign,1,2/27/2011 10:13,2.1,13684,United Kingdom,2.1
+542238,22667,recipe box retrospot,6,1/26/2011 14:35,2.95,12591,Italy,17.7
+508504,84086B,yellow/blue retro radio,1,5/16/2010 16:05,2.95,13451,United Kingdom,2.95
+509159,22275,weekend bag vintage rose paisley,1,5/20/2010 13:39,8.5,15005,United Kingdom,8.5
+496578,84466,top secret pen set,24,2/2/2010 13:42,1.25,12748,United Kingdom,30.0
+522699,22120,welcome  wooden block letters,3,9/16/2010 11:29,9.95,18219,United Kingdom,29.85
+536993,82011C,bathroom scales footprints in sand,1,12/3/2010 15:19,3.75,14396,United Kingdom,3.75
+527328,20727,lunch bag  black skull.,1,10/15/2010 15:06,1.65,12748,United Kingdom,1.65
+522213,22173,metal 4 hook hanger french chateau,8,9/13/2010 12:05,2.95,14209,United Kingdom,23.6
+522967,22708,wrap dolly girl,25,9/19/2010 13:02,0.42,18257,United Kingdom,10.5
+559639,23089,glass bon bon jar,24,7/11/2011 12:23,1.65,13767,United Kingdom,39.6
+573320,22665,recipe box blue sketchbook design,24,10/30/2011 10:29,2.55,15513,United Kingdom,61.2
+545308,22890,novelty biscuits cake stand 3 tier,1,3/1/2011 13:19,9.95,14656,United Kingdom,9.95
+490024,90214C,"letter ""c"" bling key ring",1,12/3/2009 12:40,1.25,14606,United Kingdom,1.25
+526651,22130,party cone christmas decoration,6,10/12/2010 13:54,0.85,16775,United Kingdom,5.1
+575502,23207,lunch bag alphabet design,10,11/10/2011 10:10,1.65,16700,United Kingdom,16.5
+560893,23310,bubblegum ring assorted,36,7/21/2011 17:08,0.42,13804,United Kingdom,15.12
+568238,21500,pink polkadot wrap,25,9/26/2011 12:00,0.42,13927,United Kingdom,10.5
+557952,23321,small white heart of wicker,5,6/23/2011 18:33,1.65,14584,United Kingdom,8.25
+519252,84997D,pink 3 piece mini dots cutlery set,1,8/15/2010 15:26,3.75,17841,United Kingdom,3.75
+575937,23343,jumbo bag vintage christmas,10,11/13/2011 11:24,2.08,12935,United Kingdom,20.8
+574844,22476,empire union jack tv dinner tray,3,11/7/2011 11:57,4.95,12783,Portugal,14.85
+501910,84997C,blue 3 piece mini dots cutlery set,6,3/22/2010 9:05,3.75,12639,Sweden,22.5
+535349,22942,christmas lights 10 santas,4,11/25/2010 16:52,8.5,18245,United Kingdom,34.0
+580831,22456,natural slate chalkboard large,3,12/6/2011 11:39,4.95,14418,United Kingdom,14.85
+531382,21080,set/20 red retrospot paper napkins,2,11/7/2010 16:29,0.85,16549,United Kingdom,1.7
+523524,22061,large cake stand  hanging strawbery,1,9/22/2010 13:07,9.95,14570,United Kingdom,9.95
+576650,22583,pack of 6 handbag gift boxes,6,11/16/2011 10:34,2.55,14286,United Kingdom,15.3
+560453,21060,party invites balloon girl,12,7/19/2011 9:52,0.85,13209,United Kingdom,10.2
+566220,23314,vintage christmas tablecloth,6,9/9/2011 15:53,12.5,15251,United Kingdom,75.0
+527366,22623,box of vintage jigsaw blocks,3,10/17/2010 11:24,4.95,15571,United Kingdom,14.85
+517130,22456,natural slate chalkboard large,2,7/27/2010 10:07,4.95,16059,United Kingdom,9.9
+501049,20724,red spotty charlotte bag,100,3/12/2010 10:41,0.72,14646,Netherlands,72.0
+511637,22037,robot birthday card,12,6/9/2010 13:04,0.42,15298,United Kingdom,5.04
+528745,22090,paper bunting retrospot,2,10/24/2010 14:35,2.95,14551,United Kingdom,5.9
+561881,82494L,wooden frame antique white,6,7/31/2011 12:47,2.95,16477,United Kingdom,17.7
+533423,21535,red retrospot small milk jug,3,11/17/2010 11:19,2.55,16386,United Kingdom,7.65
+504898,37370,retro coffee mugs assorted,2,4/18/2010 14:35,1.25,16409,United Kingdom,2.5
+501879,22136,love heart sock hanger,1,3/21/2010 13:27,1.65,17472,United Kingdom,1.65
+557746,21166,cook with wine metal sign,1,6/22/2011 12:24,2.08,15059,United Kingdom,2.08
+537371,22358,kings choice tea caddy,2,12/6/2010 12:47,2.95,15028,United Kingdom,5.9
+513558,84997C,blue 3 piece mini dots cutlery set,6,6/25/2010 13:27,3.75,17138,United Kingdom,22.5
+503401,22139,retro spot tea set ceramic 11 pc,3,3/31/2010 16:31,4.95,17428,United Kingdom,14.85
+575508,22759,set of 3 notebooks in parcel,96,11/10/2011 10:32,1.45,14646,Netherlands,139.2
+553035,22713,card i love london,12,5/12/2011 20:13,0.42,17337,United Kingdom,5.04
+564226,POST,postage,2,8/24/2011 10:13,18.0,12523,France,36.0
+548911,22084,paper chain kit empire,6,4/5/2011 9:09,2.95,12951,United Kingdom,17.7
+578667,22845,vintage cream cat food container,1,11/24/2011 17:10,6.35,15514,United Kingdom,6.35
+537204,21014,swiss chalet tree decoration,5,12/5/2010 14:45,0.85,15555,United Kingdom,4.25
+535661,22554,plasters in tin woodland animals,1,11/28/2010 11:33,1.65,13069,United Kingdom,1.65
+550487,23184,bull dog bottle opener,4,4/18/2011 14:21,4.95,18219,United Kingdom,19.8
+538826,21112,"swiss roll towel, pink  spots",12,12/14/2010 12:58,2.95,12370,Cyprus,35.4
+527133,47566,party bunting,24,10/15/2010 9:33,4.65,12709,Germany,111.6
+553390,22652,travel sewing kit,2,5/16/2011 16:41,1.65,17841,United Kingdom,3.3
+575690,35970,zinc folkart sleigh bells,12,11/10/2011 16:20,1.69,14189,United Kingdom,20.28
+525234,22728,alarm clock bakelike pink,4,10/4/2010 14:15,3.75,15730,United Kingdom,15.0
+529763,20971,pink blue felt craft trinket box,1,10/29/2010 15:00,1.25,14081,United Kingdom,1.25
+556573,22084,paper chain kit empire,6,6/13/2011 13:32,2.95,14667,United Kingdom,17.7
+537041,22728,alarm clock bakelike pink,3,12/5/2010 10:36,3.75,16033,United Kingdom,11.25
+497378,21175,gin + tonic diet metal sign,12,2/9/2010 11:39,2.1,13089,United Kingdom,25.2
+572306,20668,disco ball christmas decoration,24,10/23/2011 15:11,0.12,17841,United Kingdom,2.88
+553392,22844,vintage cream dog food container,12,5/16/2011 16:44,7.65,16131,United Kingdom,91.8
+538095,21430,set/3 red gingham rose storage box,1,12/9/2010 14:55,3.75,17097,Spain,3.75
+523286,22812,pack 3 boxes christmas pannetone,3,9/21/2010 12:07,1.95,14716,United Kingdom,5.85
+550994,22231,jigsaw tree with birdhouse,1,4/21/2011 19:55,1.45,14562,United Kingdom,1.45
+536532,22553,plasters in tin skulls,24,12/1/2010 13:24,1.65,12433,Norway,39.6
+511961,21155,red spotty peg bag,6,6/11/2010 13:27,2.1,13337,United Kingdom,12.6
+539286,20914,set/5 red retrospot lid glass bowls,18,12/16/2010 16:05,2.95,14735,United Kingdom,53.1
+537141,22865,hand warmer owl design,3,12/5/2010 12:57,2.1,15570,United Kingdom,6.3
+566600,85230B,cinnamon scented votive candle,24,9/13/2011 15:41,0.29,13704,United Kingdom,6.96
+526200,21258,victorian sewing box large,1,10/10/2010 13:03,12.75,15266,United Kingdom,12.75
+519613,90177D,drop diamante earrings purple,6,8/18/2010 17:43,2.95,15154,United Kingdom,17.7
+575298,23394,poste france cushion cover,1,11/9/2011 12:29,3.75,17841,United Kingdom,3.75
+501470,21830,assorted creepy crawlies,48,3/16/2010 16:18,0.42,17596,United Kingdom,20.16
+540412,22507,memo board retrospot  design,4,1/7/2011 10:27,4.95,13842,United Kingdom,19.8
+575840,22728,alarm clock bakelike pink,8,11/11/2011 11:56,3.75,13137,United Kingdom,30.0
+553833,23066,small deco jewellery stand,1,5/19/2011 11:41,8.25,17346,United Kingdom,8.25
+492797,84970L,single heart zinc t-light holder,24,12/20/2009 11:17,0.95,17412,United Kingdom,22.8
+508470,21411,gingham heart  doorstop red,1,5/16/2010 11:24,4.25,16922,United Kingdom,4.25
+535799,22813,pack 3 boxes bird pannetone,1,11/28/2010 14:49,1.95,16720,United Kingdom,1.95
+497518,21232,strawberry ceramic trinket box,12,2/10/2010 13:18,1.25,15312,United Kingdom,15.0
+530344,22668,pink baby bunting,5,11/2/2010 15:39,2.95,16225,United Kingdom,14.75
+527971,22086,paper chain kit 50's christmas,18,10/20/2010 10:09,2.95,13373,United Kingdom,53.1
+578305,23007,spaceboy baby gift set,5,11/23/2011 15:44,14.95,14088,United Kingdom,74.75
+532095,84949,silver hanging t-light holder,6,11/10/2010 16:05,1.65,14651,United Kingdom,9.9
+549555,22570,feltcraft cushion rabbit,1,4/10/2011 12:52,3.75,13606,United Kingdom,3.75
+504854,21911,garden metal sign,8,4/18/2010 10:40,1.65,16923,United Kingdom,13.2
+568325,23298,spotty bunting,3,9/26/2011 13:57,4.95,14667,United Kingdom,14.85
+571290,22633,hand warmer union jack,12,10/16/2011 15:32,2.1,17183,United Kingdom,25.2
+547223,84879,assorted colour bird ornament,8,3/21/2011 15:10,1.69,12867,United Kingdom,13.52
+517760,21976,pack of 60 mushroom cake cases,2,8/2/2010 10:42,0.55,17068,United Kingdom,1.1
+540095,22197,small popcorn holder,4,1/4/2011 15:40,0.85,14553,United Kingdom,3.4
+537614,22411,jumbo shopper vintage red paisley,1,12/7/2010 13:29,1.95,16904,United Kingdom,1.95
+509810,22109,full english breakfast plate,1,5/25/2010 17:22,3.75,17862,United Kingdom,3.75
+522122,22750,feltcraft princess lola doll,4,9/13/2010 9:29,3.75,17416,United Kingdom,15.0
+498418,22355,"charlotte bag , suki design",10,2/18/2010 16:20,0.85,18257,United Kingdom,8.5
+500176,84077,world war 2 gliders asstd designs,48,3/5/2010 10:35,0.21,12437,France,10.08
+533358,20685,doormat red retrospot,10,11/17/2010 10:07,6.75,13237,United Kingdom,67.5
+572130,23231,wrap  vintage doily,25,10/21/2011 9:50,0.42,13460,United Kingdom,10.5
+531485,22625,red kitchen scales,2,11/8/2010 14:51,8.5,15992,United Kingdom,17.0
+524270,21506,"fancy font birthday card,",12,9/28/2010 11:50,0.42,16269,United Kingdom,5.04
+538040,22592,cardholder holly wreath metal,1,12/9/2010 13:08,3.75,16520,United Kingdom,3.75
+506558,17033,"brocade purse,small arch button",36,4/30/2010 11:47,0.29,15013,United Kingdom,10.44
+524270,82580,bathroom metal sign,12,9/28/2010 11:50,0.55,16269,United Kingdom,6.6
+581425,22116,metal sign his dinner is served,2,12/8/2011 15:31,0.79,14796,United Kingdom,1.58
+521668,22624,ivory kitchen scales,2,9/7/2010 15:20,8.5,12819,United Kingdom,17.0
+491109,22207,frying pan union flag,2,12/9/2009 14:30,4.25,13825,United Kingdom,8.5
+537262,22158,3 hearts hanging decoration rustic,8,12/6/2010 11:26,2.95,15039,United Kingdom,23.6
+557872,C2,carriage,1,6/23/2011 12:42,50.0,14911,EIRE,50.0
+530906,20971,pink blue felt craft trinket box,4,11/4/2010 15:40,1.25,17965,United Kingdom,5.0
+574589,23265,set of 3 wooden tree decorations,3,11/6/2011 10:33,1.25,15017,United Kingdom,3.75
+573496,85123A,white hanging heart t-light holder,4,10/31/2011 11:59,2.95,17841,United Kingdom,11.8
+507368,22382,lunch bag spaceboy design,2,5/7/2010 17:28,1.65,13969,United Kingdom,3.3
+575070,21927,blue/cream stripe cushion cover,1,11/8/2011 12:58,1.25,17841,United Kingdom,1.25
+531875,72351B,set/6 pink  butterfly t-lights,12,11/10/2010 11:47,2.1,14725,United Kingdom,25.2
+523194,84987,set of 36 teatime paper doilies,12,9/21/2010 8:12,1.45,13375,United Kingdom,17.4
+493802,85121B,retro laundry tub pink,4,1/7/2010 11:22,8.5,16985,United Kingdom,34.0
+508504,22099,caravan square tissue box,3,5/16/2010 16:05,1.25,13451,United Kingdom,3.75
+503972,84380,set of 3 butterfly cookie cutters,2,4/8/2010 17:44,1.25,17180,United Kingdom,2.5
+540523,22241,garland wooden happy easter,1,1/9/2011 12:51,1.25,13069,United Kingdom,1.25
+550997,22327,round snack boxes set of 4 skulls,6,4/26/2011 9:04,2.95,17735,United Kingdom,17.7
+533154,22027,tea party birthday card,12,11/16/2010 14:01,0.42,13458,United Kingdom,5.04
+572182,22816,card motorbike santa,12,10/21/2011 10:32,0.42,13588,United Kingdom,5.04
+565456,22720,set of 3 cake tins pantry design,1,9/4/2011 16:12,4.95,16629,United Kingdom,4.95
+576931,22994,travel card wallet retrospot,24,11/17/2011 11:10,0.42,13028,United Kingdom,10.08
+512177,22607,wooden rounders garden set,2,6/14/2010 12:01,8.5,15150,United Kingdom,17.0
+572082,22582,pack of 6 sweetie gift boxes,12,10/20/2011 14:18,2.55,17672,United Kingdom,30.6
+516494,21531,red retrospot sugar jam bowl,3,7/21/2010 10:42,2.55,13048,United Kingdom,7.65
+559680,84929,asstd fruit+flowers fridge magnets,24,7/11/2011 14:47,0.19,12717,Greece,4.56
+512250,21755,love building block word,3,6/14/2010 12:46,5.95,16814,United Kingdom,17.85
+521175,M,manual,1,9/2/2010 15:50,7.95,15901,United Kingdom,7.95
+578620,23337,egg frying pan mint,1,11/24/2011 15:21,2.08,17247,United Kingdom,2.08
+522814,22318,five heart hanging decoration,6,9/16/2010 18:24,2.95,12921,United Kingdom,17.7
+562593,22948,metal decoration naughty children,6,8/7/2011 15:43,0.85,16549,United Kingdom,5.1
+537618,22544,mini jigsaw spaceboy,24,12/7/2010 13:50,0.36,15061,United Kingdom,8.64
+573093,22197,popcorn holder,3,10/27/2011 14:38,0.85,18283,United Kingdom,2.55
+560650,22752,set 7 babushka nesting boxes,1,7/20/2011 11:38,8.5,15529,United Kingdom,8.5
+496331,21390,filigris heart with butterfly,24,1/31/2010 13:48,1.25,13897,United Kingdom,30.0
+525014,21609,set 12 lavender  botanical t-lights,12,10/3/2010 11:17,2.95,14911,EIRE,35.4
+539760,51014C,"feather pen,coal black",12,12/21/2010 17:16,0.85,17400,United Kingdom,10.2
+532757,22121,noel wooden block letters,1,11/14/2010 13:42,5.95,17288,United Kingdom,5.95
+545053,22244,3 hook hanger magic garden,1,2/27/2011 12:41,1.95,17516,United Kingdom,1.95
+529811,22743,make your own flowerpower card kit,1,10/31/2010 11:06,2.95,15569,United Kingdom,2.95
+533860,22810,set of 6 t-lights snowmen,6,11/19/2010 11:32,2.95,14813,United Kingdom,17.7
+535816,84875D,blue square compact mirror,1,11/28/2010 15:25,3.75,14986,United Kingdom,3.75
+518314,85131C,beaded crystal heart blue on stick,24,8/6/2010 12:13,0.38,13920,United Kingdom,9.12
+578243,79321,chilli lights,4,11/23/2011 12:33,5.75,13448,United Kingdom,23.0
+529934,21733,red hanging heart t-light holder,5,10/31/2010 14:25,2.95,14415,United Kingdom,14.75
+544839,22915,assorted bottle top  magnets,12,2/24/2011 10:50,0.42,14841,United Kingdom,5.04
+550179,21703,bag 125g swirly marbles,12,4/14/2011 17:29,0.42,15220,United Kingdom,5.04
+576779,22138,baking set 9 piece retrospot,4,11/16/2011 13:25,4.95,14554,United Kingdom,19.8
+492777,79320,flamingo lights,4,12/18/2009 16:06,4.95,13468,United Kingdom,19.8
+552302,21947,set of 6 heart chopsticks,1,5/8/2011 14:59,1.25,14606,United Kingdom,1.25
+524112,22654,deluxe sewing kit,3,9/27/2010 13:24,5.95,15358,United Kingdom,17.85
+537852,84997C,blue 3 piece polkadot cutlery set,1,12/8/2010 15:56,3.75,17340,United Kingdom,3.75
+510038,22215,cake stand white two tier lace,2,5/26/2010 15:48,8.5,13920,United Kingdom,17.0
+572544,22144,christmas craft little friends,4,10/24/2011 16:34,2.1,16023,United Kingdom,8.4
+523149,21967,pack of 12 skull tissues,1,9/20/2010 14:49,0.29,17585,United Kingdom,0.29
+514714,84800L,large white/pink rose art flower,24,7/5/2010 15:42,0.85,14918,United Kingdom,20.4
+513019,22523,childs garden fork pink,3,6/21/2010 11:55,0.85,14593,United Kingdom,2.55
+531750,20765,chrysanthemum sketchbook,1,11/9/2010 13:06,3.75,15325,United Kingdom,3.75
+501033,22294,heart filigree dove  small,1,3/11/2010 18:18,1.25,16918,United Kingdom,1.25
+524094,22669,red baby bunting,10,9/27/2010 12:06,2.95,17677,United Kingdom,29.5
+498350,22172,metal shelf with rail,1,2/18/2010 12:25,8.5,14085,United Kingdom,8.5
+491622,72598,set/12 taper candles,5,12/11/2009 14:20,0.85,13415,United Kingdom,4.25
+579300,23333,ivory wicker heart medium,24,11/29/2011 11:30,1.25,14667,United Kingdom,30.0
+491736,85014D,pink/brown dots ruffled umbrella,9,12/14/2009 10:34,5.95,13013,United Kingdom,53.55
+499944,71053,white metal lantern,2,3/3/2010 12:34,3.75,14530,United Kingdom,7.5
+540834,22499,wooden union jack bunting,4,1/11/2011 14:50,5.95,14733,United Kingdom,23.8
+515768,21929,jumbo bag pink vintage paisley,2,7/14/2010 14:30,1.95,18096,United Kingdom,3.9
+547063,21389,ivory hanging decoration  bird,6,3/20/2011 13:33,0.85,14769,United Kingdom,5.1
+538168,22110,bird house hot water bottle,1,12/9/2010 19:23,2.55,14702,United Kingdom,2.55
+566913,23307,set of 60 pantry design cake cases,3,9/15/2011 14:07,0.55,17602,United Kingdom,1.65
+580128,21918,set 12 kids colour  chalk sticks,2,12/1/2011 17:56,0.42,17576,United Kingdom,0.84
+500010,22383,lunch bag suki  design,10,3/4/2010 10:06,1.65,13377,United Kingdom,16.5
+563011,22197,popcorn holder,24,8/11/2011 12:00,0.85,16283,United Kingdom,20.4
+516593,21217,red spotty round cake tins,4,7/21/2010 13:59,9.95,17469,United Kingdom,39.8
+543010,22961,jam making set printed,12,2/2/2011 13:16,1.45,18250,United Kingdom,17.4
+580977,85048,15cm christmas glass ball 20 lights,6,12/6/2011 15:32,7.95,16569,United Kingdom,47.7
+514138,84520B,pack 20 english rose paper napkins,12,6/30/2010 13:43,0.85,14911,EIRE,10.2
+542608,20615,blue polkadot passport cover,1,1/30/2011 13:51,2.1,16770,United Kingdom,2.1
+566566,84660A,white stitched wall clock,1,9/13/2011 12:32,7.46,14096,United Kingdom,7.46
+569524,22170,picture frame wood triple portrait,2,10/4/2011 14:42,6.75,14506,United Kingdom,13.5
+490928,20829,glitter hanging butterfly string,3,12/8/2009 13:41,2.1,14085,United Kingdom,6.3
+506209,21231,sweetheart ceramic trinket box,24,4/28/2010 11:29,1.25,15791,United Kingdom,30.0
+517154,21257,victorian sewing box medium,6,7/27/2010 10:48,7.95,13722,United Kingdom,47.7
+504148,22443,grow your own herbs set of 3,2,4/11/2010 13:37,7.95,13180,United Kingdom,15.9
+538646,84945,multi colour silver t-light holder,24,12/13/2010 14:55,0.85,17293,United Kingdom,20.4
+534473,22891,tea for one polkadot,3,11/23/2010 10:41,4.25,15730,United Kingdom,12.75
+529513,22775,purple drawerknob acrylic edwardian,24,10/28/2010 14:51,1.25,14134,United Kingdom,30.0
+531746,22804,candleholder pink hanging heart,1,11/9/2010 13:00,2.95,14527,United Kingdom,2.95
+494912,16161M,wrap  pink flock,25,1/19/2010 17:03,0.42,16705,United Kingdom,10.5
+560106,23232,wrap vintage leaf design,150,7/14/2011 20:01,0.42,17554,United Kingdom,63.0
+535945,22585,pack of 6 birdy gift tags,24,11/29/2010 11:53,1.25,17671,United Kingdom,30.0
+577049,85049E,scandinavian reds ribbons,2,11/17/2011 13:58,1.25,17397,United Kingdom,2.5
+490759,85034A,3 gardenia morris boxed candles,48,12/8/2009 9:46,3.81,15971,United Kingdom,182.88
+513190,85131A,beaded pearl heart white on stick,3,6/22/2010 14:21,1.25,16894,United Kingdom,3.75
+569523,21786,polkadot rain hat,4,10/4/2011 14:41,0.42,16033,United Kingdom,1.68
+558909,21390,filigris heart with butterfly,48,7/5/2011 9:10,1.25,13408,United Kingdom,60.0
+536796,21354,toast its - best mum,1,12/2/2010 15:46,1.25,15574,United Kingdom,1.25
+547897,22548,heads and tails sporting fun,12,3/28/2011 11:36,1.25,12792,Portugal,15.0
+526863,20725,lunch bag red retrospot,10,10/13/2010 13:08,1.65,15203,United Kingdom,16.5
+518227,22557,plasters in tin vintage paisley,1,8/5/2010 14:57,1.65,15271,United Kingdom,1.65
+562127,47504K,english rose garden secateurs,12,8/3/2011 8:21,0.79,13717,United Kingdom,9.48
+547324,21232,strawberry ceramic trinket box,12,3/22/2011 11:27,1.25,13014,United Kingdom,15.0
+570492,85099B,jumbo bag red retrospot,10,10/11/2011 8:23,2.08,14194,United Kingdom,20.8
+555495,23200,jumbo bag pears,10,6/3/2011 14:42,2.08,17068,United Kingdom,20.8
+513349,21621,vintage union jack bunting,1,6/24/2010 11:28,8.5,14606,United Kingdom,8.5
+528625,35598B,black christmas tree 60cm,1,10/24/2010 10:56,2.95,17843,United Kingdom,2.95
+514852,22174,photo cube,6,7/6/2010 16:36,1.65,16229,United Kingdom,9.9
+571463,23154,set of 4 jam jar magnets,12,10/17/2011 14:23,2.08,16463,United Kingdom,24.96
+580516,51014A,"feather pen,hot pink",12,12/4/2011 14:15,0.39,17954,United Kingdom,4.68
+511638,16051,teatime pencil w stamp asst,36,6/9/2010 13:08,0.42,17346,United Kingdom,15.12
+569843,20984,12 pencils tall tube posy,6,10/6/2011 13:29,0.29,14449,United Kingdom,1.74
+573094,22727,alarm clock bakelike red,1,10/27/2011 14:39,3.75,15707,United Kingdom,3.75
+498890,20728,lunch bag cars blue,10,2/23/2010 13:21,1.65,12682,France,16.5
+530656,85132A,charlie + lola biscuits tins,2,11/4/2010 9:59,9.95,15888,United Kingdom,19.9
+533188,22968,rose cottage keepsake box,2,11/16/2010 14:46,9.95,17629,United Kingdom,19.9
+509634,22482,blue tea towel classic design,1,5/25/2010 10:23,1.25,13324,United Kingdom,1.25
+525942,22471,tv dinner tray air hostess,6,10/7/2010 17:27,4.95,15498,United Kingdom,29.7
+498610,22151,place setting white heart,60,2/22/2010 9:17,0.42,13393,United Kingdom,25.2
+577407,22086,paper chain kit 50's christmas,40,11/20/2011 10:37,2.55,14739,United Kingdom,102.0
+502489,22618,cooking set retrospot,2,3/25/2010 10:04,9.95,15527,United Kingdom,19.9
+508202,22558,clothes pegs retrospot pack 24,48,5/13/2010 14:18,1.06,17416,United Kingdom,50.88
+526267,22902,tote bag i love london,36,10/11/2010 10:56,2.1,12678,France,75.6
+501182,22355,"charlotte bag , suki design",10,3/15/2010 11:39,0.85,16186,United Kingdom,8.5
+580070,22077,6 ribbons rustic charm,12,12/1/2011 13:47,1.95,12919,United Kingdom,23.4
+572065,22553,plasters in tin skulls,3,10/20/2011 13:06,1.65,12556,Spain,4.95
+513163,72008,frosted box 9 white t-light candles,6,6/22/2010 10:55,0.42,16883,United Kingdom,2.52
+551387,22840,round cake tin vintage red,4,4/28/2011 11:40,7.95,14240,United Kingdom,31.8
+560033,23236,doiley storage tin,6,7/14/2011 13:28,2.89,12388,Australia,17.34
+525010,22505,memo board cottage design,4,10/3/2010 10:51,4.95,16923,United Kingdom,19.8
+527093,22636,childs breakfast set circus parade,1,10/14/2010 16:14,8.5,17823,United Kingdom,8.5
+534200,84029E,red woolly hottie white heart.,4,11/21/2010 15:14,3.75,15350,United Kingdom,15.0
+534154,84534B,fairy cake notebook a5 size,4,11/21/2010 12:29,0.85,16007,United Kingdom,3.4
+501810,21756,bath building block word,3,3/19/2010 14:41,5.95,14911,EIRE,17.85
+555703,20728,lunch bag cars blue,10,6/6/2011 15:06,1.65,15379,United Kingdom,16.5
+495581,21381,mini wooden happy birthday garland,12,1/26/2010 10:09,1.69,12468,Germany,20.28
+552269,23298,spotty bunting,1,5/8/2011 11:52,4.95,16121,United Kingdom,4.95
+571498,72349B,set/6 purple butterfly t-lights,1,10/17/2011 15:06,2.1,17841,United Kingdom,2.1
+560251,23191,bundle of 3 retro note books,1,7/17/2011 12:32,1.65,17774,United Kingdom,1.65
+550178,84569D,pack 6 heart/ice-cream patches,12,4/14/2011 17:25,1.25,12662,Germany,15.0
+526845,22632,hand warmer red retrospot,192,10/13/2010 12:18,1.85,17511,United Kingdom,355.2
+566453,21179,no junk mail metal sign,25,9/12/2011 16:23,0.39,17811,United Kingdom,9.75
+524628,21212,pack of 72 retrospot cake cases,2,9/30/2010 10:56,0.55,14796,United Kingdom,1.1
+536607,21754,home building block word,3,12/2/2010 9:29,5.95,17732,United Kingdom,17.85
