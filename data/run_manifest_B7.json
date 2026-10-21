@@ -1,0 +1,48 @@
+{
+  "finished_at": "2026-10-18 10:10:06",
+  "python": "3.12.9",
+  "platform": "Windows-11-10.0.22631-SP0",
+  "packages": {
+    "numpy": "2.5.4",
+    "pandas": "2.3.3",
+    "psycopg2-binary": "2.9.13",
+    "psycopg2": "2.9.13",
+    "sentence-transformers": "5.2.0",
+    "torch": "2.9.1"
+  },
+  "models": {
+    "mini": "sentence-transformers/all-MiniLM-L6-v2",
+    "bge": "BAAI/bge-large-en-v1.5",
+    "e5": "intfloat/e5-large-v2"
+  },
+  "tau": {
+    "mini": 0.6,
+    "bge": 0.75,
+    "e5": 0.8,
+    "bm25": 0.5
+  },
+  "bm25": {
+    "k1": 1.5,
+    "b": 0.75
+  },
+  "top_k": 5,
+  "escape_like": true,
+  "hybrid_bases": [
+    "e5"
+  ],
+  "alphas": [
+    0.0,
+    0.1,
+    0.2,
+    0.3,
+    0.4,
+    0.5,
+    0.6,
+    0.7,
+    0.8,
+    0.9,
+    1.0
+  ],
+  "n_cases": 732,
+  "test_cases_sha256": "a6b84f084ac05470739b3e91718048158c77540f5f71fb5695c98215dcea06dc"
+}

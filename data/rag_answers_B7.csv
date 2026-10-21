@@ -1,0 +1,301 @@
+CaseID,Condition,Answer,Model
+C0015,llm_only,I could not find that in the records.,mock
+C0015,rag_bm25,"Yes, the customer bought pink hawaiian picnic hamper for 4 (invoice 505840).",mock
+C0015,rag_hybrid,"Yes, the customer bought pink hawaiian picnic hamper for 4 (invoice 505840).",mock
+C0017,llm_only,I could not find that in the records.,mock
+C0017,rag_bm25,"Yes, the customer bought gingham heart  doorstop red (invoice 509857).",mock
+C0017,rag_hybrid,"Yes, the customer bought gingham heart  doorstop red (invoice 509857).",mock
+C0027,llm_only,I could not find that in the records.,mock
+C0027,rag_bm25,"Yes, the customer bought recipe box retro spot design (invoice 517093).",mock
+C0027,rag_hybrid,"Yes, the customer bought recipe box retro spot design (invoice 517093).",mock
+C0035,llm_only,I could not find that in the records.,mock
+C0035,rag_bm25,"Yes, the customer bought set of 3 butterfly cookie cutters (invoice 521221).",mock
+C0035,rag_hybrid,"Yes, the customer bought set of 3 butterfly cookie cutters (invoice 521221).",mock
+C0049,llm_only,I could not find that in the records.,mock
+C0049,rag_bm25,"Yes, the customer bought ma campagne 4 drawer wall shelf (invoice 493667).",mock
+C0049,rag_hybrid,"Yes, the customer bought ma campagne 4 drawer wall shelf (invoice 493667).",mock
+C0055,llm_only,I could not find that in the records.,mock
+C0055,rag_bm25,"Yes, the customer bought coffee mug blue paisley design (invoice 511654).",mock
+C0055,rag_hybrid,"Yes, the customer bought coffee mug blue paisley design (invoice 511654).",mock
+C0067,llm_only,I could not find that in the records.,mock
+C0067,rag_bm25,"Yes, the customer bought jumbo shopper vintage red paisley (invoice 520524).",mock
+C0067,rag_hybrid,"Yes, the customer bought jumbo shopper vintage red paisley (invoice 520524).",mock
+C0075,llm_only,I could not find that in the records.,mock
+C0075,rag_bm25,"Yes, the customer bought pack of 6 skull paper cups (invoice 520339).",mock
+C0075,rag_hybrid,"Yes, the customer bought pack of 6 skull paper plates (invoice 520339).",mock
+C0077,llm_only,I could not find that in the records.,mock
+C0077,rag_bm25,"Yes, the customer bought red pudding spoon (invoice 490693).",mock
+C0077,rag_hybrid,"Yes, the customer bought red pudding spoon (invoice 490693).",mock
+C0083,llm_only,I could not find that in the records.,mock
+C0083,rag_bm25,"Yes, the customer bought colouring pencils brown tube (invoice 503237).",mock
+C0083,rag_hybrid,"Yes, the customer bought colouring pencils brown tube (invoice 503237).",mock
+C0103,llm_only,I could not find that in the records.,mock
+C0103,rag_bm25,"Yes, the customer bought victorian sewing kit (invoice 519469).",mock
+C0103,rag_hybrid,"Yes, the customer bought victorian sewing kit (invoice 519469).",mock
+C0107,llm_only,I could not find that in the records.,mock
+C0107,rag_bm25,"Yes, the customer bought jumbo bag toys (invoice 505565).",mock
+C0107,rag_hybrid,"Yes, the customer bought jumbo bag toys (invoice 505565).",mock
+C0115,llm_only,I could not find that in the records.,mock
+C0115,rag_bm25,"Yes, the customer bought boys alphabet iron on patches (invoice 492125).",mock
+C0115,rag_hybrid,"Yes, the customer bought girls alphabet iron on patches (invoice 492125).",mock
+C0121,llm_only,I could not find that in the records.,mock
+C0121,rag_bm25,"Yes, the customer bought gin + tonic diet metal sign (invoice 497195).",mock
+C0121,rag_hybrid,"Yes, the customer bought gin + tonic diet metal sign (invoice 497195).",mock
+C0137,llm_only,I could not find that in the records.,mock
+C0137,rag_bm25,"Yes, the customer bought 6 chocolate love heart t-lights (invoice 517275).",mock
+C0137,rag_hybrid,"Yes, the customer bought 6 chocolate love heart t-lights (invoice 517275).",mock
+C0149,llm_only,I could not find that in the records.,mock
+C0149,rag_bm25,"Yes, the customer bought boudoir square tissue box (invoice 511961).",mock
+C0149,rag_hybrid,"Yes, the customer bought boudoir square tissue box (invoice 511961).",mock
+C0151,llm_only,I could not find that in the records.,mock
+C0151,rag_bm25,"Yes, the customer bought victorian sewing box small (invoice 521927).",mock
+C0151,rag_hybrid,"Yes, the customer bought victorian sewing box small (invoice 521927).",mock
+C0167,llm_only,I could not find that in the records.,mock
+C0167,rag_bm25,"Yes, the customer bought toy tidy pink retrospot (invoice 513770).",mock
+C0167,rag_hybrid,"Yes, the customer bought toy tidy pink retrospot (invoice 513770).",mock
+C0195,llm_only,I could not find that in the records.,mock
+C0195,rag_bm25,"Yes, the customer bought set 3 red spot tin tea,coffee,sugar (invoice 506276).",mock
+C0195,rag_hybrid,"Yes, the customer bought set 3 red spot tin tea,coffee,sugar (invoice 506276).",mock
+C0197,llm_only,I could not find that in the records.,mock
+C0197,rag_bm25,"Yes, the customer bought blue felt easter egg basket (invoice 498884).",mock
+C0197,rag_hybrid,"Yes, the customer bought blue felt easter egg basket (invoice 498884).",mock
+C0203,llm_only,I could not find that in the records.,mock
+C0203,rag_bm25,"Yes, the customer bought red spotty childs apron (invoice 497473).",mock
+C0203,rag_hybrid,"Yes, the customer bought red spotty childs apron (invoice 497473).",mock
+C0215,llm_only,I could not find that in the records.,mock
+C0215,rag_bm25,"Yes, the customer bought 6 ribbons elegant christmas (invoice 490080).",mock
+C0215,rag_hybrid,"Yes, the customer bought 6 ribbons elegant christmas (invoice 490080).",mock
+C0221,llm_only,I could not find that in the records.,mock
+C0221,rag_bm25,"Yes, the customer bought recipe box pantry yellow design (invoice 522929).",mock
+C0221,rag_hybrid,"Yes, the customer bought recipe box pantry yellow design (invoice 522929).",mock
+C0227,llm_only,I could not find that in the records.,mock
+C0227,rag_bm25,"Yes, the customer bought childs apron spaceboy design (invoice 496745).",mock
+C0227,rag_hybrid,"Yes, the customer bought childs apron spaceboy design (invoice 496745).",mock
+C0241,llm_only,I could not find that in the records.,mock
+C0241,rag_bm25,"Yes, the customer bought holiday fun ludo (invoice 502728).",mock
+C0241,rag_hybrid,"Yes, the customer bought holiday fun ludo (invoice 502728).",mock
+C0245,llm_only,I could not find that in the records.,mock
+C0245,rag_bm25,"Yes, the customer bought citrus garland felt flowers (invoice 493442).",mock
+C0245,rag_hybrid,"Yes, the customer bought citrus garland felt flowers (invoice 493442).",mock
+C0255,llm_only,I could not find that in the records.,mock
+C0255,rag_bm25,"Yes, the customer bought set of 3 coloured  flying ducks (invoice 514842).",mock
+C0255,rag_hybrid,"Yes, the customer bought set of 3 coloured  flying ducks (invoice 514842).",mock
+C0289,llm_only,I could not find that in the records.,mock
+C0289,rag_bm25,"Yes, the customer bought fairy soap soap holder (invoice 511029).",mock
+C0289,rag_hybrid,"Yes, the customer bought fairy soap soap holder (invoice 511029).",mock
+C0293,llm_only,I could not find that in the records.,mock
+C0293,rag_bm25,"Yes, the customer bought set/3 polka dot stacking tins (invoice 510998).",mock
+C0293,rag_hybrid,"Yes, the customer bought set/3 polka dot stacking tins (invoice 510998).",mock
+C0299,llm_only,I could not find that in the records.,mock
+C0299,rag_bm25,"Yes, the customer bought antique silver tea glass etched (invoice 492020).",mock
+C0299,rag_hybrid,"Yes, the customer bought antique silver tea glass etched (invoice 492020).",mock
+C0305,llm_only,I could not find that in the records.,mock
+C0305,rag_bm25,"Yes, the customer bought grey floral feltcraft shoulder bag (invoice 510072).",mock
+C0305,rag_hybrid,"Yes, the customer bought grey floral feltcraft shoulder bag (invoice 510072).",mock
+C0313,llm_only,I could not find that in the records.,mock
+C0313,rag_bm25,"Yes, the customer bought set 3 red spot tin tea,coffee,sugar (invoice 513275).",mock
+C0313,rag_hybrid,"Yes, the customer bought set 3 red spot tin tea,coffee,sugar (invoice 513275).",mock
+C0323,llm_only,I could not find that in the records.,mock
+C0323,rag_bm25,"Yes, the customer bought scottie dog hot water bottle (invoice 490569).",mock
+C0323,rag_hybrid,"Yes, the customer bought scottie dog hot water bottle (invoice 490569).",mock
+C0325,llm_only,I could not find that in the records.,mock
+C0325,rag_bm25,"Yes, the customer bought vintage union jack doorstop (invoice 498588).",mock
+C0325,rag_hybrid,"Yes, the customer bought vintage union jack doorstop (invoice 498588).",mock
+C0329,llm_only,I could not find that in the records.,mock
+C0329,rag_bm25,"Yes, the customer bought red spots  wrap (invoice 499275).",mock
+C0329,rag_hybrid,"Yes, the customer bought red spots  wrap (invoice 499275).",mock
+C0331,llm_only,I could not find that in the records.,mock
+C0331,rag_bm25,I could not find that in the records.,mock
+C0331,rag_hybrid,I could not find that in the records.,mock
+C0343,llm_only,I could not find that in the records.,mock
+C0343,rag_bm25,I could not find that in the records.,mock
+C0343,rag_hybrid,I could not find that in the records.,mock
+C0345,llm_only,I could not find that in the records.,mock
+C0345,rag_bm25,"Yes, the customer bought lunch bag red spotty (invoice 521896).",mock
+C0345,rag_hybrid,"Yes, the customer bought red spotty shopping bag (invoice 521896).",mock
+C0349,llm_only,I could not find that in the records.,mock
+C0349,rag_bm25,"Yes, the customer bought cream heart card holder (invoice 507405).",mock
+C0349,rag_hybrid,"Yes, the customer bought cream heart card holder (invoice 507405).",mock
+C0357,llm_only,I could not find that in the records.,mock
+C0357,rag_bm25,"Yes, the customer bought enamel flower jug cream (invoice 513051).",mock
+C0357,rag_hybrid,"Yes, the customer bought enamel flower jug cream (invoice 513051).",mock
+C0361,llm_only,I could not find that in the records.,mock
+C0361,rag_bm25,I could not find that in the records.,mock
+C0361,rag_hybrid,I could not find that in the records.,mock
+C0371,llm_only,I could not find that in the records.,mock
+C0371,rag_bm25,I could not find that in the records.,mock
+C0371,rag_hybrid,I could not find that in the records.,mock
+C0373,llm_only,I could not find that in the records.,mock
+C0373,rag_bm25,"Yes, the customer bought strawberry ceramic trinket box (invoice 499469).",mock
+C0373,rag_hybrid,"Yes, the customer bought strawberry ceramic trinket box (invoice 499469).",mock
+C0375,llm_only,I could not find that in the records.,mock
+C0375,rag_bm25,I could not find that in the records.,mock
+C0375,rag_hybrid,I could not find that in the records.,mock
+C0379,llm_only,I could not find that in the records.,mock
+C0379,rag_bm25,"Yes, the customer bought green spotty bowl (invoice 519411).",mock
+C0379,rag_hybrid,"Yes, the customer bought green spotty bowl (invoice 519411).",mock
+C0391,llm_only,I could not find that in the records.,mock
+C0391,rag_bm25,"Yes, the customer bought strawberry ceramic trinket box (invoice 499469).",mock
+C0391,rag_hybrid,"Yes, the customer bought strawberry ceramic trinket box (invoice 499469).",mock
+C0401,llm_only,I could not find that in the records.,mock
+C0401,rag_bm25,"Yes, the customer bought red woolly hottie white heart. (invoice 535586).",mock
+C0401,rag_hybrid,"Yes, the customer bought red woolly hottie white heart. (invoice 535586).",mock
+C0411,llm_only,I could not find that in the records.,mock
+C0411,rag_bm25,"Yes, the customer bought beaded crystal heart pink large (invoice 501860).",mock
+C0411,rag_hybrid,"Yes, the customer bought beaded crystal heart pink large (invoice 501860).",mock
+C0413,llm_only,I could not find that in the records.,mock
+C0413,rag_bm25,"Yes, the customer bought cacti t-light candles (invoice 536355).",mock
+C0413,rag_hybrid,"Yes, the customer bought cacti t-light candles (invoice 536355).",mock
+C0419,llm_only,I could not find that in the records.,mock
+C0419,rag_bm25,"Yes, the customer bought save the planet mug (invoice 522988).",mock
+C0419,rag_hybrid,"Yes, the customer bought save the planet mug (invoice 522988).",mock
+C0421,llm_only,I could not find that in the records.,mock
+C0421,rag_bm25,"Yes, the customer bought steel sweetheart round table cream (invoice 506167).",mock
+C0421,rag_hybrid,"Yes, the customer bought steel sweetheart round table cream (invoice 506167).",mock
+C0423,llm_only,I could not find that in the records.,mock
+C0423,rag_bm25,"Yes, the customer bought rex cash+carry jumbo shopper (invoice 517316).",mock
+C0423,rag_hybrid,"Yes, the customer bought rex cash+carry jumbo shopper (invoice 517316).",mock
+C0431,llm_only,I could not find that in the records.,mock
+C0431,rag_bm25,"Yes, the customer bought decoration, hanging heart+mirror (invoice 490667).",mock
+C0431,rag_hybrid,"Yes, the customer bought decoration, hanging heart+mirror (invoice 490667).",mock
+C0437,llm_only,I could not find that in the records.,mock
+C0437,rag_bm25,"Yes, the customer bought butterflies  honeycomb garland (invoice 516110).",mock
+C0437,rag_hybrid,"Yes, the customer bought butterflies  honeycomb garland (invoice 516110).",mock
+C0443,llm_only,I could not find that in the records.,mock
+C0443,rag_bm25,I could not find that in the records.,mock
+C0443,rag_hybrid,I could not find that in the records.,mock
+C0447,llm_only,I could not find that in the records.,mock
+C0447,rag_bm25,"Yes, the customer bought floral elephant soft toy (invoice 505977).",mock
+C0447,rag_hybrid,"Yes, the customer bought floral elephant soft toy (invoice 505977).",mock
+C0449,llm_only,I could not find that in the records.,mock
+C0449,rag_bm25,I could not find that in the records.,mock
+C0449,rag_hybrid,I could not find that in the records.,mock
+C0451,llm_only,I could not find that in the records.,mock
+C0451,rag_bm25,"Yes, the customer bought vintage billboard tea mug (invoice 506909).",mock
+C0451,rag_hybrid,"Yes, the customer bought vintage billboard tea mug (invoice 506909).",mock
+C0465,llm_only,I could not find that in the records.,mock
+C0465,rag_bm25,"Yes, the customer bought love heart sock hanger (invoice 496946).",mock
+C0465,rag_hybrid,"Yes, the customer bought love heart sock hanger (invoice 496946).",mock
+C0467,llm_only,I could not find that in the records.,mock
+C0467,rag_bm25,"Yes, the customer bought cook with wine metal sign (invoice 512567).",mock
+C0467,rag_hybrid,"Yes, the customer bought cook with wine metal sign (invoice 512567).",mock
+C0471,llm_only,I could not find that in the records.,mock
+C0471,rag_bm25,"Yes, the customer bought metal sign her dinner is served (invoice 498729).",mock
+C0471,rag_hybrid,"Yes, the customer bought metal sign her dinner is served (invoice 498729).",mock
+C0473,llm_only,I could not find that in the records.,mock
+C0473,rag_bm25,"Yes, the customer bought set/3 decoupage stacking tins (invoice 514643).",mock
+C0473,rag_hybrid,"Yes, the customer bought set/3 decoupage stacking tins (invoice 514643).",mock
+C0475,llm_only,I could not find that in the records.,mock
+C0475,rag_bm25,"Yes, the customer bought pack of 12 pink paisley tissues (invoice 504896).",mock
+C0475,rag_hybrid,"Yes, the customer bought pack of 12 pink paisley tissues (invoice 504896).",mock
+C0493,llm_only,I could not find that in the records.,mock
+C0493,rag_bm25,"Yes, the customer bought cream sweetheart trays (invoice 521124).",mock
+C0493,rag_hybrid,"Yes, the customer bought cream sweetheart trays (invoice 521124).",mock
+C0495,llm_only,I could not find that in the records.,mock
+C0495,rag_bm25,"Yes, the customer bought botanical rose gift wrap (invoice 514374).",mock
+C0495,rag_hybrid,"Yes, the customer bought botanical rose gift wrap (invoice 514374).",mock
+C0497,llm_only,I could not find that in the records.,mock
+C0497,rag_bm25,"Yes, the customer bought red retrospot small milk jug (invoice 521656).",mock
+C0497,rag_hybrid,"Yes, the customer bought red retrospot small milk jug (invoice 521656).",mock
+C0501,llm_only,I could not find that in the records.,mock
+C0501,rag_bm25,"Yes, the customer bought white hanging heart t-light holder (invoice 513115).",mock
+C0501,rag_hybrid,"Yes, the customer bought white hanging heart t-light holder (invoice 513115).",mock
+C0503,llm_only,I could not find that in the records.,mock
+C0503,rag_bm25,"Yes, the customer bought round snack boxes set of 4 fruits (invoice 511070).",mock
+C0503,rag_hybrid,"Yes, the customer bought round snack boxes set of 4 fruits (invoice 511070).",mock
+C0511,llm_only,I could not find that in the records.,mock
+C0511,rag_bm25,"Yes, the customer bought pink new baroquecandlestick candle (invoice 522570).",mock
+C0511,rag_hybrid,"Yes, the customer bought pink new baroquecandlestick candle (invoice 522570).",mock
+C0517,llm_only,I could not find that in the records.,mock
+C0517,rag_bm25,I could not find that in the records.,mock
+C0517,rag_hybrid,I could not find that in the records.,mock
+C0521,llm_only,I could not find that in the records.,mock
+C0521,rag_bm25,"Yes, the customer bought cream heart card holder (invoice 522283).",mock
+C0521,rag_hybrid,"Yes, the customer bought cream heart card holder (invoice 522283).",mock
+C0525,llm_only,I could not find that in the records.,mock
+C0525,rag_bm25,I could not find that in the records.,mock
+C0525,rag_hybrid,I could not find that in the records.,mock
+C0527,llm_only,I could not find that in the records.,mock
+C0527,rag_bm25,"Yes, the customer bought holiday fun ludo (invoice 520246).",mock
+C0527,rag_hybrid,"Yes, the customer bought holiday fun ludo (invoice 520246).",mock
+C0533,llm_only,I could not find that in the records.,mock
+C0533,rag_bm25,"Yes, the customer bought set of 72 pink heart paper doilies (invoice 522943).",mock
+C0533,rag_hybrid,"Yes, the customer bought set of 72 pink heart paper doilies (invoice 522943).",mock
+C0537,llm_only,I could not find that in the records.,mock
+C0537,rag_bm25,"Yes, the customer bought regency cakestand 3 tier (invoice 514387).",mock
+C0537,rag_hybrid,"Yes, the customer bought regency cakestand 3 tier (invoice 514387).",mock
+C0539,llm_only,I could not find that in the records.,mock
+C0539,rag_bm25,I could not find that in the records.,mock
+C0539,rag_hybrid,I could not find that in the records.,mock
+C0541,llm_only,I could not find that in the records.,mock
+C0541,rag_bm25,I could not find that in the records.,mock
+C0541,rag_hybrid,I could not find that in the records.,mock
+C0545,llm_only,I could not find that in the records.,mock
+C0545,rag_bm25,I could not find that in the records.,mock
+C0545,rag_hybrid,I could not find that in the records.,mock
+C0549,llm_only,I could not find that in the records.,mock
+C0549,rag_bm25,I could not find that in the records.,mock
+C0549,rag_hybrid,I could not find that in the records.,mock
+C0553,llm_only,I could not find that in the records.,mock
+C0553,rag_bm25,I could not find that in the records.,mock
+C0553,rag_hybrid,I could not find that in the records.,mock
+C0557,llm_only,I could not find that in the records.,mock
+C0557,rag_bm25,I could not find that in the records.,mock
+C0557,rag_hybrid,I could not find that in the records.,mock
+C0567,llm_only,I could not find that in the records.,mock
+C0567,rag_bm25,"Yes, the customer bought glass wine glass decorations (invoice 490465).",mock
+C0567,rag_hybrid,"Yes, the customer bought glass wine glass decorations (invoice 490465).",mock
+C0571,llm_only,I could not find that in the records.,mock
+C0571,rag_bm25,"Yes, the customer bought feather pen,hot pink (invoice 519706).",mock
+C0571,rag_hybrid,"Yes, the customer bought feather pen,light pink (invoice 519706).",mock
+C0575,llm_only,I could not find that in the records.,mock
+C0575,rag_bm25,"Yes, the customer bought skulls tape (invoice 536863).",mock
+C0575,rag_hybrid,"Yes, the customer bought skulls tape (invoice 536863).",mock
+C0579,llm_only,I could not find that in the records.,mock
+C0579,rag_bm25,"Yes, the customer bought set/10 red spotty party candles (invoice 497910).",mock
+C0579,rag_hybrid,"Yes, the customer bought set/10 red spotty party candles (invoice 497910).",mock
+C0581,llm_only,I could not find that in the records.,mock
+C0581,rag_bm25,"Yes, the customer bought kings choice mug (invoice 502375).",mock
+C0581,rag_hybrid,"Yes, the customer bought kings choice mug (invoice 502375).",mock
+C0585,llm_only,I could not find that in the records.,mock
+C0585,rag_bm25,"Yes, the customer bought green fern journal (invoice 502055).",mock
+C0585,rag_hybrid,"Yes, the customer bought green fern journal (invoice 502055).",mock
+C0587,llm_only,I could not find that in the records.,mock
+C0587,rag_bm25,"Yes, the customer bought picnic boxes set of 3 retrospot (invoice 519897).",mock
+C0587,rag_hybrid,"Yes, the customer bought picnic boxes set of 3 retrospot (invoice 519897).",mock
+C0589,llm_only,I could not find that in the records.,mock
+C0589,rag_bm25,"Yes, the customer bought economy passport cover (invoice 518865).",mock
+C0589,rag_hybrid,"Yes, the customer bought economy passport cover (invoice 518865).",mock
+C0591,llm_only,I could not find that in the records.,mock
+C0591,rag_bm25,"Yes, the customer bought box of 24 cocktail parasols (invoice 513440).",mock
+C0591,rag_hybrid,"Yes, the customer bought box of 24 cocktail parasols (invoice 513440).",mock
+C0597,llm_only,I could not find that in the records.,mock
+C0597,rag_bm25,"Yes, the customer bought pink union jack  passport cover (invoice 497894).",mock
+C0597,rag_hybrid,"Yes, the customer bought pink union jack  passport cover (invoice 497894).",mock
+C0599,llm_only,I could not find that in the records.,mock
+C0599,rag_bm25,"Yes, the customer bought red tea towel classic design (invoice 504162).",mock
+C0599,rag_hybrid,"Yes, the customer bought red tea towel classic design (invoice 504162).",mock
+C0605,llm_only,I could not find that in the records.,mock
+C0605,rag_bm25,I could not find that in the records.,mock
+C0605,rag_hybrid,I could not find that in the records.,mock
+C0607,llm_only,I could not find that in the records.,mock
+C0607,rag_bm25,I could not find that in the records.,mock
+C0607,rag_hybrid,I could not find that in the records.,mock
+C0609,llm_only,I could not find that in the records.,mock
+C0609,rag_bm25,I could not find that in the records.,mock
+C0609,rag_hybrid,I could not find that in the records.,mock
+C0613,llm_only,I could not find that in the records.,mock
+C0613,rag_bm25,I could not find that in the records.,mock
+C0613,rag_hybrid,I could not find that in the records.,mock
+C0633,llm_only,I could not find that in the records.,mock
+C0633,rag_bm25,I could not find that in the records.,mock
+C0633,rag_hybrid,I could not find that in the records.,mock
+C0639,llm_only,I could not find that in the records.,mock
+C0639,rag_bm25,I could not find that in the records.,mock
+C0639,rag_hybrid,I could not find that in the records.,mock
+C0641,llm_only,I could not find that in the records.,mock
+C0641,rag_bm25,I could not find that in the records.,mock
+C0641,rag_hybrid,I could not find that in the records.,mock
+C0647,llm_only,I could not find that in the records.,mock
+C0647,rag_bm25,I could not find that in the records.,mock
+C0647,rag_hybrid,I could not find that in the records.,mock

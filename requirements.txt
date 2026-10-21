@@ -1,0 +1,7 @@
+numpy
+pandas
+matplotlib
+seaborn
+psycopg2-binary
+sentence-transformers
+requests
